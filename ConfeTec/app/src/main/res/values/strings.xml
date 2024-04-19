@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">ConfeTec</string>
+    <string-array name="alumnos_array">
+        <item>Mecatrónica</item>
+        <item>TICs</item>
+        <item>Gestión Empresarial</item>
+        <item>Logística</item>
+        <item>Industrial</item>
+
+    </string-array>
+
+    <string-array name="semestres_array">
+        <item>1º</item>
+        <item>2º</item>
+        <item>3º</item>
+        <item>4º</item>
+        <item>5º</item>
+        <item>6º</item>
+        <item>7º</item>
+        <item>8º</item>
+        <item>9º</item>
+        <item>10º</item>
+    </string-array>
+</resources>
+
